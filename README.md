@@ -15,11 +15,11 @@
 
 ### 🚀 About Me
 
-- 💼 Software Engineer at **Emids Technologies** (Client: **Humana**), building large-scale healthcare data pipelines on **Azure Databricks**
-- 🏗️ I design **Lakehouse architectures** (Bronze/Silver/Gold) with **Apache Spark (PySpark)**, **Delta Lake**, and **Structured Streaming**
-- ⚙️ I automate infrastructure with **Terraform** and orchestrate pipelines using **Databricks Workflows**
-- 🤖 I build **LLM-powered tools** with **LangChain** to auto-generate ETL code and cut manual engineering effort
-- 📈 Passionate about **data quality, observability, and reliable production pipelines** at scale
+- 💼 Software Engineer at **Emids Technologies**, developing scalable healthcare data platforms and enterprise-grade data solutions on **Microsoft Azure Databricks**.
+- 🏗️ Experienced in building and optimizing **Lakehouse architectures** using **Azure Databricks, Apache Spark (PySpark), Delta Lake, Kafka, and Structured Streaming** to support high-volume batch and real-time data processing.
+- ⚙️ Skilled in designing robust **ETL/ELT pipelines**, automating cloud infrastructure with **Terraform**, and orchestrating production workloads through **Databricks Workflows**.
+- 🤖 Built **LLM-powered automation solutions** using **LangChain** and Generative AI to accelerate ETL development, automate code generation, and enhance engineering productivity.
+- 📈 Passionate about **Data Engineering, Distributed Systems, Data Quality, Observability, and Scalable Data Platforms**, with a focus on delivering reliable, production-ready solutions.
 - 📫 Reach me at **somil99262@gmail.com**
 
 ---
