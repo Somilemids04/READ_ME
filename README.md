@@ -98,6 +98,6 @@ A sentiment classification model using Twitter data, Linear SVC, and Logistic Re
 
 ---
 
-<h3 align="left">🔗 Connect with me</h3>
+<h3 align="left">🔗 Connect with me on LinkedIN</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/somil-gupta-5a9865291/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
