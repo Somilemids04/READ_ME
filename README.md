@@ -61,7 +61,7 @@ I care about pipelines that don't just run — they run *reliably*, with clean v
 
 ### 🧑‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,spark,SQL,js,c,cpp&perline=5" />
 </p>
 
 ### 🗃️ Big Data & Lakehouse
