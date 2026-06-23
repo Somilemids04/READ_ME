@@ -84,17 +84,22 @@ A sentiment classification model using Twitter data, Linear SVC, and Logistic Re
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=somil04&show_icons=true&theme=tokyonight&count_private=true" alt="Somil's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somil04&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=somil04&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Somil's GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somil04&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=somil04&theme=tokyonight" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=somil04&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somil04&theme=darkhub&no-frame=true&row=1" alt="trophy" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=somil04&theme=react-dark&hide_border=true" alt="Contribution graph" width="95%"/>
 </p>
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somil04&theme=radical&no-frame=true&row=1" alt="trophy" /></a>
+</p>
+
 
 ---
 
