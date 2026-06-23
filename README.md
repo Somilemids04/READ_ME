@@ -115,14 +115,6 @@ A sentiment classification model using Twitter data, Linear SVC, and Logistic Re
 
 ---
 
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somil04&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
