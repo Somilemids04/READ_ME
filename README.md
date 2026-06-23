@@ -61,7 +61,7 @@ I care about pipelines that don't just run — they run *reliably*, with clean v
 
 ### 🧑‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,,js,c,cpp&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,c,cpp&perline=5" />
 </p>
 
 ### 🗃️ Big Data & Lakehouse
@@ -93,8 +93,9 @@ I care about pipelines that don't just run — they run *reliably*, with clean v
 
 ### 🗄️ Databases & Data Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,kafka&perline=3" />
-  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,kafka&perline=3" />
+  &nbsp
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
