@@ -96,11 +96,6 @@ A sentiment classification model using Twitter data, Linear SVC, and Logistic Re
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=somil04&theme=react-dark&hide_border=true" alt="Contribution graph" width="95%"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somil04&theme=radical&no-frame=true&row=1" alt="trophy" /></a>
-</p>
-
-
 ---
 
 <h3 align="left">🔗 Connect with me on LinkedIN</h3>
